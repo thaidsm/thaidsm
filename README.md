@@ -1,11 +1,10 @@
 ### Hello World, I'm Thai!✨
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently studying computer science
+- 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: she/her
 <div style="display: inline_block"><br>
   <img align="center" alt="Thai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thai-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thai-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thai-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thai-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
