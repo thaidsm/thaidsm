@@ -7,7 +7,7 @@
 
 ### 
 <h5 align="left">💻 Computer science student<br>🌱 I'm currently learning Machine Learning, Big Data, Data Warehousing, and ETL (Extract, Transform, Load) practices.<br>😊 Pronouns: she/her<br>⚡ Fun fact: I like to learn random things.
-<img style="margin-top: 20px;" align="right" width="250px" src="https://media1.tenor.com/m/SWg8Pi3TLSkAAAAC/pixel-art-computer.gif"></h5>
+<img style="margin-top: 20px;" align="right" width="200px" src="https://media1.tenor.com/m/SWg8Pi3TLSkAAAAC/pixel-art-computer.gif"></h5>
 
 
 ###
@@ -54,8 +54,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaidsm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="100" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thaidsm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thaidsm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thaidsm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
 <br clear="both">
